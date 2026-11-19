@@ -1,4 +1,4 @@
-# Maven Toys — Business Performance & Gross Margin Diagnosis | Python & Power BI
+# Business Performance & Gross Margin Diagnosis | Python & Power BI
 
 **An end-to-end retail business performance analytics project using Python, Pandas, Power BI, and DAX to investigate declining gross profit margins despite revenue growth, identify sales-mix drivers, and support data-driven business decisions.**
 
@@ -171,3 +171,5 @@ These recommendations are proposed management actions based on historical findin
 
 ### 7.screenshots
 https://github.com/sameeksha1111/business-performance-gross-margin-diagnosis/blob/main/screenshots/summary.png - summary
+
+https://github.com/sameeksha1111/business-performance-gross-margin-diagnosis/blob/main/screenshots/business_performance.png - business_performance
