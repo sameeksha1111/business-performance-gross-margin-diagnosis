@@ -170,3 +170,4 @@ Use product profitability and margin-contribution analysis to identify opportuni
 These recommendations are proposed management actions based on historical findings and should be evaluated before implementation
 
 ### 7.screenshots
+https://github.com/sameeksha1111/business-performance-gross-margin-diagnosis/blob/main/screenshots/summary.png - summary
