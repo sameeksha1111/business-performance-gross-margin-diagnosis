@@ -173,3 +173,5 @@ These recommendations are proposed management actions based on historical findin
 https://github.com/sameeksha1111/business-performance-gross-margin-diagnosis/blob/main/screenshots/summary.png - summary
 
 https://github.com/sameeksha1111/business-performance-gross-margin-diagnosis/blob/main/screenshots/business_performance.png - business_performance
+
+https://github.com/sameeksha1111/business-performance-gross-margin-diagnosis/blob/main/screenshots/margin%20diagnosis.png - margin_diagnosis
